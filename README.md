@@ -1,4 +1,4 @@
-# iw07 SMDB影评app之功能完善
+# iw06 SMDB影评app之功能完善
 
 基于提供的xcode工程SMDB以及情感分析(Sentiment Analysis)，利用Netural Language Framework、CoreML和CreateML.app完成：
 
